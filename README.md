@@ -1,2 +1,2 @@
-# rmd
+# remad
 Resource Management and Discovery
